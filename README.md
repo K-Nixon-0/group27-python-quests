@@ -1,5 +1,4 @@
 # Python Peer-Graded Assignment
----------------------------------------
 
 ## Project Overview
 This repository contains our group's submission for the Python peer-graded assignment. The project is split among 6 team members, with each member completing 4 distinct tasks to meet the required total of 24 tasks across 6 difficulty levels.
