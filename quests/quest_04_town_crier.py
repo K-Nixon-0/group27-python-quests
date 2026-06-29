@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 city_name = "Kigali"
 current_year = 2026
 your_name = "Bassam"
