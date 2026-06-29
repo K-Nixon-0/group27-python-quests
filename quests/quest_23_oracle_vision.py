@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 #
 
-def calculate_area(Length, width):
-    return Length * width
+def calculate_area(Length, Width):
+    return Length * Width
 
 area1 = calculate_area(5, 10)
 print(f"Rectangle 1 area: {area1}")
