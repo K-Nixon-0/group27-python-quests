@@ -1,12 +1,12 @@
 # Python Peer Group Quest Tracker | Group 27
 
 ## Project Overview
-This repository contains the completed Python programming solutions for our peer-graded group assignment. The project is organized into 6 progressive difficulty levels, focusing on logical structures, functions, and structured problem-solving. Every group member successfully completed their selected quests to fulfill the project standards.
+This repository contains the completed Python programming solutions for our peer group assignment. The project is organized into 6 progressive levels, focusing on logical structures, functions, and structured problem-solving. Every group member successfully completed their selected quests to fulfill the project.
 
 ---
 
 ## Team Contributions & Quest Matrix
-As tracked in our final project workflow, here is the official mapping of team members to their completed quests and Git development branches. All tasks listed below have achieved a **Completed** status.
+As tracked in our final project **(https://docs.google.com/spreadsheets/d/13lbWOzNbSKysp88aICOKRvirsY1M66bffK8S6h7X5DI/edit?usp=sharing)** workflow, here is the official mapping of team members to their completed quests and Git development branches. All tasks listed below have achieved a **Completed** status.
 
 | Member Name | Git Branch Name | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -69,5 +69,5 @@ As tracked in our final project workflow, here is the official mapping of team m
 ### 1. Setup
 First, download the repository files to your computer using your terminal:
 ```bash
-git clone [https://github.com/K-Nixon-0/group27-python-quests.git](https://github.com/K-Nixon-0/group27-python-quests.git)
+git clone https://github.com/K-Nixon-0/group27-python-quests.git
 cd group27-python-quests
