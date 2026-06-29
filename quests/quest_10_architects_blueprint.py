@@ -1,5 +1,3 @@
-length = float(input("Enter the length of the rectangle: "))
-width = float(input("Enter the width of the rectangle: "))
-area = length * width
-print("The area of the rectangle is: " + str(area))
+git add quests/quest_01_first_spell.py
+git commit -m "Add quest 01 first spell"
 
