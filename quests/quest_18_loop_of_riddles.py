@@ -13,4 +13,3 @@ while guess != secret_number:
     else:
         print("Too high, try again.")
 
-#
