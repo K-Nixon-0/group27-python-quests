@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#
+
 
 def calculate_area(Length, Width):
     return Length * Width
